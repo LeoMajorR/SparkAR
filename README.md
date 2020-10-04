@@ -14,4 +14,4 @@
 <hr>
 
 #### **Demo Video Of Filter**
-[![Watch the video On Youtube](https://i.imgur.com/zRitBZrh.jpg)](https://www.youtube.com/DQs0a5aX1cw) <img src="./assets/demo.gif">
+[![Watch the video On Youtube](https://i.imgur.com/zRitBZrh.jpg)](https://youtu.be/DQs0a5aX1cw) <img src="./assets/demo.gif">
