@@ -12,8 +12,6 @@
 <img src="./assets/ico.jpg" width=25>   [Instagram link Of AR Filter](https://www.instagram.com/ar/753107118838853/)
 </center>
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./assets/FinalCut.jpg">
-    <source src="./assets/video.mp4" type="video/mp4">
-  </video>
-</figure>
+#### **Demo Video Of Filter**
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/DQs0a5aX1cw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
